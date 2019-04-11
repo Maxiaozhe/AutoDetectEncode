@@ -80,5 +80,11 @@ namespace WindowsFormsApplication4
             }
             return true;
         }
+
+        public static EncodingInfo[] GetEncodings()
+        {
+            EncodingInfo[] encodings=Encoding.GetEncodings();
+            return encodings;
+        }
     }
 }

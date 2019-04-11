@@ -44,5 +44,11 @@ namespace WindowsFormsApplication4
                 MessageBox.Show(encode);
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.dataGridView1.DataSource = AutoDetector.GetEncodings();
+            
+        }
     }
 }
