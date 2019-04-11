@@ -1,0 +1,3 @@
+D:\Projects\AutoDetectEncoding\AutoDetectEncoding\bin\Debug\WindowsFormsApplication4.exe.config
+D:\Projects\AutoDetectEncoding\AutoDetectEncoding\obj\Debug\WindowsFormsApplication4.exe
+D:\Projects\AutoDetectEncoding\AutoDetectEncoding\obj\Debug\WindowsFormsApplication4.pdb
